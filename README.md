@@ -8,7 +8,7 @@
 ## 🧠 Habilidades Técnicas
 
 **Linguagens:** C, C++, Python  
-**Ferramentas:** Arduino, Esp32, Raspberry Pi  
+**Ferramentas:** Arduino, Esp32, Raspberry Pi, Proteus  
 **Áreas:** Robótica, Sistemas Embarcados
 
 <p align="left">
