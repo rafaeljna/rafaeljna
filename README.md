@@ -9,7 +9,7 @@
 
 **Linguagens:** C, C++, Python  
 **Ferramentas:** Arduino, Esp32, Raspberry Pi, Proteus  
-**Áreas:** Robótica, Sistemas Embarcados
+**Áreas:** Robótica, Sistemas Embarcados, IoT
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
