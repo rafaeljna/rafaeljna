@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Rafael<br><br>
-🎓 Engenheiro da Computação<br>💻 Projeto de integração da robótica educacional entre UEMA E IEMA<br>🧠 Habilidades Técnicas<br><br>Linguagens: C, C++, Python<br>Ferramentas: Arduino, Esp32, Raspberry Pi, Proteus<br>Áreas: Desenvolvimento Web, Robótica, Sistemas Embarcados, IoT
+🎓 Engenheiro da Computação<br>💻 Projeto de integração da robótica educacional entre UEMA E IEMA<br>Desenvolvimento Web, Robótica, Sistemas Embarcados, IoT
 
 
 ## 🌐 Sociais:
