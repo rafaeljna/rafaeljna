@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Rafael<br><br>
-🎓 Engenheiro da Computação<br>💻 Projeto de integração da robótica educacional entre UEMA E IEMA<br>Desenvolvimento Web, Robótica, Sistemas Embarcados, IoT
+🎓 Engenheiro da Computação<br>💻 Projeto de integração da robótica educacional entre UEMA E IEMA<br>Áreas: Desenvolvimento Web, Robótica, Sistemas Embarcados, IoT
 
 
 ## 🌐 Sociais:
